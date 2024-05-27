@@ -1,2 +1,2 @@
 # odin-recipes
-# Hello! My name is Artheek Shan and I am going to be working on the first assignment of the Odin Project. This first project is about showing the recipes for my favorite foods to eat. This project uses HTML and CSS and I learned how to use the basics of Git. 
+# Hello! My name is Artheek Shan and I am going to be working on the first assignment of the Odin Project. This first project is about showing the recipes for my favorite foods to eat. This project uses HTML and I learned how to use the basics of Git. 
